@@ -31,6 +31,7 @@ git clone https://github.com/sudanshup/Flux.git
 cd Flux
 
 2. **Install dependencies**
+```
 npm install
 # or
 yarn install
@@ -38,8 +39,10 @@ yarn install
 pnpm install
 # or
 bun install
+```
 
 3. **Run the development server**
+```
 npm run dev
 # or
 yarn dev
@@ -47,6 +50,7 @@ yarn dev
 pnpm dev
 # or
 bun dev
+```
 
 4. **Open your browser**
 Navigate to [http://localhost:3000](http://localhost:3000) to see the application.
